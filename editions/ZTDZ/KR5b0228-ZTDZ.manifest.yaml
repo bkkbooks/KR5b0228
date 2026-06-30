@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5b0228/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5b0228/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上洞淵三昧神咒齋懺謝儀
+  date: '2015-08-29 00:14:31.480545'
+  source:
+    repository: kanripo
+    path: KR5b0228
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0228_000-ZTDZ.yaml, hash: 'sha256:2bafd97bdfead3fbbb8c0e4c394ce19bc93f95373095b56052b8c619e4d0f80e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5b0228_000-ZTDZ.markers.yaml, hash: 'sha256:32d7a7f56e401d99eda94764afb5977c8c265e1f28ddd0fe14f5fe2a757b6a8f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5b0228_SJB_000-090827a
+    span:
+    - body
+    - 0
+    - 5656
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:78af45f1ed167a4321105e4620fe95d6dc035b6de37c6bf5d31d8f7ef86dcdf3
